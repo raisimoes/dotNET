@@ -2,7 +2,7 @@
 
 class MeuPrograma{
     static void Main (){
-        // Declaração e inicialização de variáveis
+        // Declaração e inicialização das variáveis
         int a = 5;
         int b = 8;
 
